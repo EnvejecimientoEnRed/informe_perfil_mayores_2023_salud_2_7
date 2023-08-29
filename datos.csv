@@ -1,0 +1,65 @@
+sexo,edad,masa_corporal,total,ano,edad_cat,linea
+Hombres,De 18 a 24 años,Sobrepeso,24.3,2014,18-24,H2014
+Hombres,De 18 a 24 años,Obesidad,4.51,2014,18-24,H2014
+Hombres,De 25 a 34 años,Sobrepeso,36.05,2014,25-34,H2014
+Hombres,De 25 a 34 años,Obesidad,10.41,2014,25-34,H2014
+Hombres,De 35 a 44 años,Sobrepeso,44.49,2014,35-44,H2014
+Hombres,De 35 a 44 años,Obesidad,15.28,2014,35-44,H2014
+Hombres,De 45 a 54 años,Sobrepeso,45.7,2014,45-54,H2014
+Hombres,De 45 a 54 años,Obesidad,20.72,2014,45-54,H2014
+Hombres,De 55 a 64 años,Sobrepeso,48.92,2014,55-64,H2014
+Hombres,De 55 a 64 años,Obesidad,24.71,2014,55-64,H2014
+Hombres,De 65 a 74 años,Sobrepeso,53.38,2014,65-74,H2014
+Hombres,De 65 a 74 años,Obesidad,22.27,2014,65-74,H2014
+Hombres,De 75 a 84 años,Sobrepeso,49.11,2014,75-84,H2014
+Hombres,De 75 a 84 años,Obesidad,21.69,2014,75-84,H2014
+Hombres,De 85 y más años,Sobrepeso,49.32,2014,85 y más años,H2014
+Hombres,De 85 y más años,Obesidad,14.8,2014,85 y más años,H2014
+Mujeres,De 18 a 24 años,Sobrepeso,15.14,2014,18-24,M2014
+Mujeres,De 18 a 24 años,Obesidad,4.4,2014,18-24,M2014
+Mujeres,De 25 a 34 años,Sobrepeso,18.35,2014,25-34,M2014
+Mujeres,De 25 a 34 años,Obesidad,11.98,2014,25-34,M2014
+Mujeres,De 35 a 44 años,Sobrepeso,22.07,2014,35-44,M2014
+Mujeres,De 35 a 44 años,Obesidad,12.65,2014,35-44,M2014
+Mujeres,De 45 a 54 años,Sobrepeso,28.84,2014,45-54,M2014
+Mujeres,De 45 a 54 años,Obesidad,15.94,2014,45-54,M2014
+Mujeres,De 55 a 64 años,Sobrepeso,35.07,2014,55-64,M2014
+Mujeres,De 55 a 64 años,Obesidad,21.38,2014,55-64,M2014
+Mujeres,De 65 a 74 años,Sobrepeso,38.67,2014,65-74,M2014
+Mujeres,De 65 a 74 años,Obesidad,26.65,2014,65-74,M2014
+Mujeres,De 75 a 84 años,Sobrepeso,41.78,2014,75-84,M2014
+Mujeres,De 75 a 84 años,Obesidad,26.61,2014,75-84,M2014
+Mujeres,De 85 y más años,Sobrepeso,37.86,2014,85 y más años,M2014
+Mujeres,De 85 y más años,Obesidad,19.03,2014,85 y más años,M2014
+Hombres,De 18 a 24 años,Sobrepeso,23.32,2020,18-24,H2020
+Hombres,De 18 a 24 años,Obesidad,4.57,2020,18-24,H2020
+Hombres,De 25 a 34 años,Sobrepeso,35.51,2020,25-34,H2020
+Hombres,De 25 a 34 años,Obesidad,9.47,2020,25-34,H2020
+Hombres,De 35 a 44 años,Sobrepeso,44.7,2020,35-44,H2020
+Hombres,De 35 a 44 años,Obesidad,15.8,2020,35-44,H2020
+Hombres,De 45 a 54 años,Sobrepeso,49.3,2020,45-54,H2020
+Hombres,De 45 a 54 años,Obesidad,18.89,2020,45-54,H2020
+Hombres,De 55 a 64 años,Sobrepeso,49.99,2020,55-64,H2020
+Hombres,De 55 a 64 años,Obesidad,23.22,2020,55-64,H2020
+Hombres,De 65 a 74 años,Sobrepeso,51.93,2020,65-74,H2020
+Hombres,De 65 a 74 años,Obesidad,22.44,2020,65-74,H2020
+Hombres,De 75 a 84 años,Sobrepeso,55.46,2020,75-84,H2020
+Hombres,De 75 a 84 años,Obesidad,17.46,2020,75-84,H2020
+Hombres,De 85 y más años,Sobrepeso,47.81,2020,85 y más años,H2020
+Hombres,De 85 y más años,Obesidad,12.72,2020,85 y más años,H2020
+Mujeres,De 18 a 24 años,Sobrepeso,16.96,2020,18-24,M2020
+Mujeres,De 18 a 24 años,Obesidad,4.65,2020,18-24,M2020
+Mujeres,De 25 a 34 años,Sobrepeso,19.9,2020,25-34,M2020
+Mujeres,De 25 a 34 años,Obesidad,10.25,2020,25-34,M2020
+Mujeres,De 35 a 44 años,Sobrepeso,25.73,2020,35-44,M2020
+Mujeres,De 35 a 44 años,Obesidad,13.14,2020,35-44,M2020
+Mujeres,De 45 a 54 años,Sobrepeso,30.74,2020,45-54,M2020
+Mujeres,De 45 a 54 años,Obesidad,15.26,2020,45-54,M2020
+Mujeres,De 55 a 64 años,Sobrepeso,36.76,2020,55-64,M2020
+Mujeres,De 55 a 64 años,Obesidad,18.6,2020,55-64,M2020
+Mujeres,De 65 a 74 años,Sobrepeso,41.34,2020,65-74,M2020
+Mujeres,De 65 a 74 años,Obesidad,21.86,2020,65-74,M2020
+Mujeres,De 75 a 84 años,Sobrepeso,41.44,2020,75-84,M2020
+Mujeres,De 75 a 84 años,Obesidad,23.47,2020,75-84,M2020
+Mujeres,De 85 y más años,Sobrepeso,36.05,2020,85 y más años,M2020
+Mujeres,De 85 y más años,Obesidad,20.45,2020,85 y más años,M2020
